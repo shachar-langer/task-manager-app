@@ -4,11 +4,11 @@ A task manager application written with Node.js as instructed in Andrew Mead's "
 
 ## Getting Started
 
-# MongoDB Server
+### MongoDB Server
 
 This application requires a running MongoDB server. You can run a server locally or use an external server. It is recommended to use MongoDB's cloud solution called Atlas. It's maintained by MongoDB and has a free tier.
 
-# Environment Variables
+### Environment Variables
 
 In order to run this application you'll need to set 4 environment variables -
 * PORT - The app's connection port
