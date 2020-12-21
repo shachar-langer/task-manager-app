@@ -2,10 +2,6 @@
 
 A task manager application written with Node.js. Use REST API to to sign up, edit your profile and manage your tasks.
 
-## Demo
-
-Connect to http://langer-task-manager.herokuapp.com for a working live server.
-
 ## Prerequisites
 
 ### MongoDB Server
